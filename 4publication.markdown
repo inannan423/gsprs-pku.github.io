@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+<!-- eslint disable -->
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -169,6 +171,7 @@ permalink: /publication/
     </tbody>
   </table>
 </div>
+
 
 <br>
 <p>
